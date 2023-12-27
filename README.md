@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<center>
   Para titulo es:
   # Mi Titulo
         
@@ -21,4 +21,4 @@
   [Instagram](https://www.instagram.com/casadelfuturogc)
         
   <img src="https://cdn-icons-png.flaticon.com/512/2175/2175188.png" alt="msj" width="500px">
-  </div>
+  </center>
