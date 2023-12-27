@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center; align-item:center">
+
 Para titulo es:
 # Mi Titulo
 
@@ -20,7 +20,5 @@ hipervinculo:
 
 [Instagram](https://www.instagram.com/casadelfuturogc)
 
-<span>
 ![msj](https://cdn-icons-png.flaticon.com/512/2175/2175188.png)
-</span>
-</div>
+
