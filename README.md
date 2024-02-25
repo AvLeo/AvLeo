@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript Advanced**
 
-- 👨‍💻 All of my projects are available at [https://casa-del-futuro.github.io/programacionWeb2/07_integrador/](https://casa-del-futuro.github.io/programacionWeb2/07_integrador/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://github.com/AvLeo)
 
 - 💬 Ask me about **Arduino, JavaScript, Java, HTML y CSS**
 
